@@ -1,0 +1,11 @@
+fastapi>=0.115
+uvicorn>=0.32
+langchain>=0.3
+langchain-openai>=0.2
+langgraph>=0.2
+pydantic>=2
+sqlalchemy>=2
+python-dotenv>=1
+azure-cosmos>=4.7
+azure-ai-documentintelligence>=1.0
+pytest>=8
